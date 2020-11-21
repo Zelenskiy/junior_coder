@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="Dijkstra.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="49"/>
+        <CursorPos Y="57"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="input.txt"/>
+        <IsVisibleTab Value="True"/>
+        <WindowIndex Value="1"/>
+        <CursorPos X="7" Y="3"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="output.txt"/>
+        <IsVisibleTab Value="True"/>
+        <WindowIndex Value="2"/>
+        <ExtraEditorCount Value="1"/>
+        <ExtraEditor1>
+          <EditorIndex Value="-1"/>
+          <CursorPos X="49" Y="7"/>
+        </ExtraEditor1>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="57" TopLine="51"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="72" TopLine="64"/>
+      </Position2>
+      <Position3>
+        <Filename Value="input.txt"/>
+        <Caret Column="8"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="48" TopLine="40"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="52" Column="18" TopLine="50"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Column="4"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="10" Column="5" TopLine="9"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="19" Column="20" TopLine="12"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="11" Column="8" TopLine="9"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="16" Column="64" TopLine="18"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="8" Column="34"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="20" Column="25" TopLine="10"/>
+      </Position12>
+      <Position13>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="11" Column="9"/>
+      </Position13>
+      <Position14>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="70" TopLine="52"/>
+      </Position14>
+      <Position15>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="11" Column="21"/>
+      </Position15>
+      <Position16>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="51" Column="27" TopLine="46"/>
+      </Position16>
+      <Position17>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="25" Column="27" TopLine="15"/>
+      </Position17>
+      <Position18>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="27" Column="20" TopLine="27"/>
+      </Position18>
+      <Position19>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="51" Column="32" TopLine="55"/>
+      </Position19>
+      <Position20>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="55" Column="20" TopLine="48"/>
+      </Position20>
+      <Position21>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="6" Column="30"/>
+      </Position21>
+      <Position22>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="13" Column="23"/>
+      </Position22>
+      <Position23>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="14" Column="17" TopLine="12"/>
+      </Position23>
+      <Position24>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="88" Column="19" TopLine="74"/>
+      </Position24>
+      <Position25>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="90" Column="16" TopLine="73"/>
+      </Position25>
+      <Position26>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="5" Column="18"/>
+      </Position26>
+      <Position27>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="4" Column="15"/>
+      </Position27>
+      <Position28>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="55" Column="48" TopLine="49"/>
+      </Position28>
+      <Position29>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="83" Column="21" TopLine="66"/>
+      </Position29>
+      <Position30>
+        <Filename Value="Dijkstra.lpr"/>
+        <Caret Line="56" Column="24" TopLine="49"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
