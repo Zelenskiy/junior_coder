@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="floyd.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <TopLine Value="44"/>
+        <CursorPos X="41" Y="54"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="output.txt"/>
+        <IsVisibleTab Value="True"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="input.txt"/>
+        <EditorIndex Value="2"/>
+        <CursorPos Y="5"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="2" HistoryIndex="1">
+      <Position1>
+        <Filename Value="floyd.lpr"/>
+        <Caret Line="36" Column="31" TopLine="24"/>
+      </Position1>
+      <Position2>
+        <Filename Value="floyd.lpr"/>
+        <Caret Line="5" Column="50"/>
+      </Position2>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>

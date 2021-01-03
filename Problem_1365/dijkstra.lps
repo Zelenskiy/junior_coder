@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="3">
+      <Unit0>
+        <Filename Value="dijkstra.lpr"/>
+        <IsPartOfProject Value="True"/>
+        <UnitName Value="Dijkstra"/>
+        <IsVisibleTab Value="True"/>
+        <CursorPos X="26" Y="8"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+      </Unit0>
+      <Unit1>
+        <Filename Value="input.txt"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <WindowIndex Value="1"/>
+        <CursorPos X="8" Y="5"/>
+        <UsageCount Value="20"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit1>
+      <Unit2>
+        <Filename Value="output.txt"/>
+        <EditorIndex Value="1"/>
+        <UsageCount Value="10"/>
+        <Loaded Value="True"/>
+        <DefaultSyntaxHighlighter Value="None"/>
+      </Unit2>
+    </Units>
+    <JumpHistory Count="7" HistoryIndex="6">
+      <Position1>
+        <Filename Value="dijkstra.lpr"/>
+        <Caret Line="53" Column="38" TopLine="39"/>
+      </Position1>
+      <Position2>
+        <Filename Value="dijkstra.lpr"/>
+        <Caret Line="73" Column="43" TopLine="61"/>
+      </Position2>
+      <Position3>
+        <Filename Value="dijkstra.lpr"/>
+        <Caret Line="2"/>
+      </Position3>
+      <Position4>
+        <Filename Value="dijkstra.lpr"/>
+        <Caret Line="57" Column="48" TopLine="44"/>
+      </Position4>
+      <Position5>
+        <Filename Value="dijkstra.lpr"/>
+        <Caret Line="22" Column="34" TopLine="11"/>
+      </Position5>
+      <Position6>
+        <Filename Value="dijkstra.lpr"/>
+        <Caret Line="3" Column="21"/>
+      </Position6>
+      <Position7>
+        <Filename Value="dijkstra.lpr"/>
+        <Caret Line="48" Column="44"/>
+      </Position7>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
